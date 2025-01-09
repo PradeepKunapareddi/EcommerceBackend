@@ -1,5 +1,7 @@
 TITTLE - PRODUCT MANAGEMENT AND SECURE ORDER PROCESSING SYSTEM
+
 Explore the Structure: Take a moment to review the project structure:
+
 ECommerceBackend
 └── src/main/java
     └── com.example.ecommerce
@@ -24,7 +26,9 @@ ECommerceBackend
         └── ECommerceBackendApplication.java   // Main entry point for the Spring Boot application.
 └── src/main/resources
     └── application.properties                // Configuration file for application-specific settings (e.g., database).
-└── pom.xml                                   // Maven configuration file for managing dependencies and build lifecycle.
+└── pom.xml      // Maven configuration file for managing dependencies and build lifecycle.
+
+
 Development 
 1. Clear API Design:
 Define and document RESTful APIs for each functionality (products, cart, users, orders) with proper endpoints, HTTP methods, and payload structures.
